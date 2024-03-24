@@ -1,0 +1,39 @@
+[
+    {
+      "id": "ODI01",
+      "drink_name": "Coffee",
+      "customization": "Regular",
+      "amount": "105.17",
+      "drink_status": "Pending",
+      "drink_image_url": "https://example.com/coffee_image.jpg",
+      "action":"Refund"
+    },
+    {
+      "id": "ODI02",
+      "drink_name": "Latte",
+      "customization": "Extra shot",
+      "amount": "177.59",
+      "drink_status": "Success",
+      "drink_image_url": "https://example.com/latte_image.jpg",
+      "action":"Refund"
+    },
+    {
+      "id": "ODI03",
+      "drink_name": "Tea",
+      "customization": "With honey",
+      "amount": "116.17",
+      "drink_status": "Failure",
+      "drink_image_url": "https://example.com/tea_image.jpg",
+      "action":"Refund"
+    },
+    {
+      "id": "ODI04",
+      "drink_name": "Cappuccino",
+      "customization": "Extra foam",
+      "amount": "244.19",
+      "drink_status": "Pending",
+      "drink_image_url": "https://example.com/cappuccino_image.jpg",
+      "action":"Refund"
+    }
+  ]
+  
