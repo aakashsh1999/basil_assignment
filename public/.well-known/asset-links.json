@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.meradoc",
+      "sha256_cert_fingerprints": [
+        "B8:77:98:BB:4A:49:04:31:FA:3A:92:90:4C:1F:89:E2:5D:17:76:B5:46:03:A1:C5:6A:5F:47:72:92:E5:89:AA"
+      ]
+    }
+  }
+]
